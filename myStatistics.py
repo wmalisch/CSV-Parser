@@ -1,8 +1,3 @@
-##
-# A program that creates functions for simple statistical measures.
-# Student Name: Will Malisch
-# Student ID: wmalisch
-# Student Number: 250846447
 
 ## Computes the smallest value in a list of floats
 # @param myList is a list of positive floats
