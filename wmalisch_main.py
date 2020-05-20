@@ -1,8 +1,4 @@
-##
-# A program for parsing CSV files.
-# Student Name: Will Malisch
-# Student ID: wmalisch
-# Student Number: 250846447
+
 
 ## Define mmain function
 # @param/return no paramter or return, just run the instructions inside the function
